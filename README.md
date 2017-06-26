@@ -53,7 +53,7 @@
 					</tr>
 					<tr>
 						<td>Interests</td>
-						<td>Programing(Phithon, HTML, CSS)</td>
+						<td>Programing(Python, HTML, CSS)</td>
 					</tr>
 					<tr>
 						<td>Hobbies</td>
