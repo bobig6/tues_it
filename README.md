@@ -57,7 +57,7 @@
 					</tr>
 					<tr>
 						<td>Hobbies</td>
-						<td>Aikido, Videogames, Reading</td>
+						<td>Aikido, Videogames, Reading,Guitar</td>
 					</tr>
 				</tbody>
 			</table>
