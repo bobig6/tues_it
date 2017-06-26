@@ -40,7 +40,7 @@
 						<td>b.i.ivanov1@gmail.com</td>
 					</tr>
 					<tr>
-						<td>birthtday</td>
+						<td>Birthtday</td>
 						<td>16 December</td>
 					</tr>
 					<tr>
@@ -48,7 +48,7 @@
 						<td>8th "v"</td>
 					</tr>
 					<tr>
-						<td>Shool</td>
+						<td>School</td>
 						<td>Technological School Electronic Systems (TUES), Technical University Sofia </td>
 					</tr>
 					<tr>
